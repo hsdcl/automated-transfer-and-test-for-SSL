@@ -1,0 +1,12 @@
+# pip install -r requirements.txt
+torch==1.12.0
+torchvision==0.13.0
+numpy==1.19.2
+pyqt5==5.15.7
+pyqt5-tools==5.15.2.3.0.2
+pillow==9.2.0
+opencv-python==4.5.5.64
+nplab==1.0
+pyserial=3.5
+serial=0.097
+
