@@ -7,6 +7,6 @@ pyqt5-tools==5.15.2.3.0.2
 pillow==9.2.0
 opencv-python==4.5.5.64
 nplab==1.0
-pyserial=3.5
-serial=0.097
+pyserial==3.5
+serial==0.0.97
 
